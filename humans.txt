@@ -1,0 +1,14 @@
+/* TEAM */
+    Founder: Benjamin Sekyere
+    Site: https://b-tech-ghana.com
+    Location: Ghana
+
+/* THANKS */
+    Fonts: Google Fonts
+    Icons: Emoji
+
+/* SITE */
+    Last update: 2025/12/19
+    Standards: HTML5, CSS3, JavaScript
+    Components: Custom
+    Software: VS Code
